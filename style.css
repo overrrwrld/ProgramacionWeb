@@ -1,0 +1,42 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    font-family: "Times New Roman", Times, serif;
+    margin: 20px;
+}
+
+/* Título principal */
+h1 {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+/* Tabla */
+table {
+    width: 50%;
+    border-collapse: collapse;
+    margin: 0 auto;
+    text-align: left;
+}
+
+/* Encabezados */
+th {
+    padding: 6px;
+}
+
+th {
+    font-size: 16px;
+}
+
+/* Línea punteada bajo el encabezado */
+.dashed-line {
+    border-bottom: 2px dashed #000;
+}
+
